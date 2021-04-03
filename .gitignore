@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.openapi-generator-ignore
+.openapi-generator/
 
 # C extensions
 *.so
